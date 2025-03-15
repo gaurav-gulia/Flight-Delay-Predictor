@@ -1,0 +1,9 @@
+pandas
+numpy
+xgboost
+scikit-learn
+matplotlib
+seaborn
+jupyter
+boto3  # Required for accessing S3
+pyarrow  # Required for reading Parquet files
